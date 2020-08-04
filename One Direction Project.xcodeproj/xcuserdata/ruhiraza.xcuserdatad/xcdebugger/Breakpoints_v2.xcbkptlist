@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8E3DDEF7-46AF-47D3-BB4B-D0712DEBA211"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CE53417-E955-4979-980E-9FEA9C53DB36"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "One Direction Project/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9CE53417-E955-4979-980E-9FEA9C53DB36 - 707bebb9b7e23292"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "One_Direction_Project.ViewController.Band.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "One Direction Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruhiraza/Desktop/One%20Direction%20Project/One%20Direction%20Project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "9CE53417-E955-4979-980E-9FEA9C53DB36 - 3b68ef75defde69e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "One_Direction_Project.ViewController.Band.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "One Direction Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruhiraza/Desktop/One%20Direction%20Project/One%20Direction%20Project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "9CE53417-E955-4979-980E-9FEA9C53DB36 - 34675b59c8a3a991"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "One_Direction_Project.ViewController.Band.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "One Direction Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruhiraza/Desktop/One%20Direction%20Project/One%20Direction%20Project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "9CE53417-E955-4979-980E-9FEA9C53DB36 - b84742efa77a0883"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "One_Direction_Project.ViewController.Band.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "One Direction Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruhiraza/Desktop/One%20Direction%20Project/One%20Direction%20Project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "9CE53417-E955-4979-980E-9FEA9C53DB36 - 43d3da94f307e46d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "One_Direction_Project.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; One_Direction_Project.ViewController"
+                  moduleName = "One Direction Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruhiraza/Desktop/One%20Direction%20Project/One%20Direction%20Project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "291">
+               </Location>
+               <Location
+                  uuid = "9CE53417-E955-4979-980E-9FEA9C53DB36 - b022c9027e831d0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "One_Direction_Project.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;One_Direction_Project.ViewController&gt;"
+                  moduleName = "One Direction Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruhiraza/Desktop/One%20Direction%20Project/One%20Direction%20Project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "223">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F08442A5-6895-4A1C-AE60-9498F19EFFC3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "One Direction Project/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F08442A5-6895-4A1C-AE60-9498F19EFFC3 - ab20c087bea5b2f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "One_Direction_Project.ViewController.band.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "One Direction Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruhiraza/Desktop/One%20Direction%20Project/One%20Direction%20Project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "F08442A5-6895-4A1C-AE60-9498F19EFFC3 - 7251c443e1b766fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "One_Direction_Project.ViewController.band.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "One Direction Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruhiraza/Desktop/One%20Direction%20Project/One%20Direction%20Project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "F08442A5-6895-4A1C-AE60-9498F19EFFC3 - 6f2c30a7d26529f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "One_Direction_Project.ViewController.band.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "One Direction Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruhiraza/Desktop/One%20Direction%20Project/One%20Direction%20Project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "F08442A5-6895-4A1C-AE60-9498F19EFFC3 - b84742efa77a0883"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "One_Direction_Project.ViewController.band.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "One Direction Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruhiraza/Desktop/One%20Direction%20Project/One%20Direction%20Project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "F08442A5-6895-4A1C-AE60-9498F19EFFC3 - 43d3da94f307e46d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "One_Direction_Project.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; One_Direction_Project.ViewController"
+                  moduleName = "One Direction Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruhiraza/Desktop/One%20Direction%20Project/One%20Direction%20Project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "291">
+               </Location>
+               <Location
+                  uuid = "F08442A5-6895-4A1C-AE60-9498F19EFFC3 - b022c9027e831d0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "One_Direction_Project.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;One_Direction_Project.ViewController&gt;"
+                  moduleName = "One Direction Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruhiraza/Desktop/One%20Direction%20Project/One%20Direction%20Project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "223">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
